@@ -1,0 +1,38 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Rio de Janeiro
+Casos Prováveis por Mês 1º Sintoma(s)
+Ano notificação: 2019
+UF F.infecção: 33 Rio de Janeiro
+Município infecção: 330455 Rio de Janeiro
+Período:2019
+"Mês 1º Sintoma(s)";"Casos_Prováveis"
+"Janeiro";395
+"Fevereiro";277
+"Marco";875
+"Abril";2402
+"Maio";3376
+"Junho";1429
+"Julho";513
+"Agosto";229
+"Setembro";109
+"Outubro";120
+"Novembro";76
+"Dezembro";149
+"Total";9950
+Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+Notas:
+ 
+ Incluídas notificações de casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ Para o Período de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 11/01/2021, sujeitos a revisão.
+ *Data da publicação dos dados 03/2021.
+ Fonte: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/denguebRJ.def
